@@ -39,6 +39,12 @@ Search & filter tasks
 <img width="1900" height="682" alt="image" src="https://github.com/user-attachments/assets/360357d9-9802-4542-abd9-3f989b9b85b6" />
 
 
+
+<img width="1817" height="726" alt="image" src="https://github.com/user-attachments/assets/73e308ea-4d5f-4830-960a-9e77e355fc1b" />
+
+<img width="1828" height="552" alt="image" src="https://github.com/user-attachments/assets/bb48ec61-b6ed-48fb-90aa-dc29c903d667" />
+
+
 Logout flow
 
 # Backend
